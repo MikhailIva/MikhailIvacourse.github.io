@@ -1,2 +1,2 @@
-# MikhailIvacourse.github.io
+# Михаил Иващенко
 Мой первый сайт
